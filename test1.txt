@@ -1,6 +1,4 @@
 2 most imp topics:
-Min 25 Max 50 words
-Summary/Caption/Key-Words Min 2 max 5 words
 
 Js:
 JavaScript (JS) is a high-level, interpreted programming language used to make websites interactive and dynamic. It allows developers to handle events, validate forms, manipulate HTML and CSS, fetch API data, perform calculations, and build modern web applications using functions, objects, arrays, and asynchronous programming.
