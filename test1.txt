@@ -10,3 +10,7 @@ React is a JavaScript library used to build fast, interactive, and dynamic user 
 It allows developers to create reusable components, manage application state, handle events, and build single-page applications efficiently 
 using JSX, props, hooks, and virtual DOM.
 
+Componenets:
+Components are the building blocks of a React application.It helps us divide a large application into smaller, reusable parts.
+Every component represents a part of the user interface (UI).
+It can be reused multiple times in an application.
